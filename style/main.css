@@ -1,0 +1,140 @@
+.navbar-brand{
+   font-size: 28px;
+   font-weight: 730;
+   font-family: sans-serif;
+   color: white;
+}
+
+
+i{
+    float:right
+}
+/* mail */
+
+#forget{
+    text-decoration:none ;
+    color:black;
+    float: right;
+    
+}
+
+.btn-close{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    right: 0px;
+}
+
+
+
+#login{
+    width: 380px;
+    height:450px;
+    border: 2px solid white;
+    background: transparent;
+    backdrop-filter: blur(40px);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+#register{
+    width: 380px;
+    height:450px;
+    border: 2px solid white;
+    background: transparent;
+    backdrop-filter: blur(40px);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+
+}
+
+
+div a{
+    color: black;
+}
+
+body{
+    background-image: url(../image/deer\ background.jpg);
+}
+
+
+.logo{
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-left: 42px;
+}
+
+
+
+
+/* 
+.navbar ul li {
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none;
+    display: inline-block;
+    padding: 40px;
+    font-weight: bold;
+    
+
+} */
+
+
+
+.navbar li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+nav ul li a:hover{
+    
+    color: red;
+    transition: .4s;
+
+}
+
+.btn{
+    margin-right: 23px;
+
+}
+
+/* .container{
+    border: 2px solid white;
+    background:transparent;
+    backdrop-filter: blur(20px);
+}
+
+input{
+    border: none;
+    border-bottom: 2px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
